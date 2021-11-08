@@ -1,8 +1,8 @@
 #!/usr/bin/tclsh
 
 set arch "noarch"
-set base "tclrmq-1.4.5"
-set fileurl "https://github.com/flightaware/tclrmq/archive/refs/tags/v1.4.5.tar.gz"
+set base "tclrmq-1.4.6"
+set fileurl "https://github.com/flightaware/tclrmq/archive/refs/tags/1.4.6.tar.gz"
 
 set var [list wget $fileurl -O $base.tar.gz]
 exec >@stdout 2>@stderr {*}$var

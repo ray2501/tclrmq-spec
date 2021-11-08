@@ -4,7 +4,7 @@
 
 Name:          tclrmq
 Summary:       Pure Tcl Library for RabbitMQ
-Version:       1.4.5
+Version:       1.4.6
 Release:       0
 License:       BSD-3-Clause
 Group:         Development/Libraries/Tcl
